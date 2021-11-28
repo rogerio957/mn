@@ -1,0 +1,11 @@
+
+
+#EXTM3U
+#EXTINF:-1
+https://cdn77-vid.xvideos-cdn.com/f6jHNcoLBlefsfbUQkvYsQ==,1638058139/videos/hls/48/a1/6d/48a16d12fcc5d313d57130c522f894f5/hls-360p.m3u8
+#EXTINF:-2
+https://cdn77-vid.xvideos-cdn.com/apcEIcUMZFXZ8xeQnsU0iQ==,1638058670/videos/hls/41/1a/20/411a2057bc98653ea37299fb2ed051ec/hls-720p-e9e8d.m3u8
+#EXTINF:-3
+https://hls-hw.xvideos-cdn.com/videos/hls/84/e1/31/84e131ec31a0610652eebc074ea6387e/hls-720p-fb6b9.m3u8?e=1638058911&l=0&h=346b848ce96a4debb10834e5e403135f
+#EXTINF:-4
+https://cdn77-vid.xvideos-cdn.com/E4cRqLCYQJORMi8JIODnKg==,1638059562/videos/hls/bb/d5/2a/bbd52a5a82905609530ba857b479642b/hls-720p-07862.m3u8
